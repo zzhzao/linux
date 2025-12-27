@@ -1,0 +1,19 @@
+Start testing: Dec 27 10:30 CST
+----------------------------------------------------------
+1/1 Testing: testAdd
+1/1 Test: testAdd
+Command: "/home/zzh/linux/cmakeStudy/build/main"
+Directory: /home/zzh/linux/cmakeStudy/build
+"testAdd" start time: Dec 27 10:30 CST
+Output:
+----------------------------------------------------------
+ test OK 
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testAdd" end time: Dec 27 10:30 CST
+"testAdd" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 27 10:30 CST

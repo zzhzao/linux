@@ -1,0 +1,7 @@
+/home/zzh/linux/cmakeStudy/install_hello/build/CMakeFiles/hello.dir
+/home/zzh/linux/cmakeStudy/install_hello/build/CMakeFiles/edit_cache.dir
+/home/zzh/linux/cmakeStudy/install_hello/build/CMakeFiles/rebuild_cache.dir
+/home/zzh/linux/cmakeStudy/install_hello/build/CMakeFiles/list_install_components.dir
+/home/zzh/linux/cmakeStudy/install_hello/build/CMakeFiles/install.dir
+/home/zzh/linux/cmakeStudy/install_hello/build/CMakeFiles/install/local.dir
+/home/zzh/linux/cmakeStudy/install_hello/build/CMakeFiles/install/strip.dir
